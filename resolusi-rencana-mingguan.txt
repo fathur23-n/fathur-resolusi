@@ -4,4 +4,6 @@ RENCANA KEGIATAN Minggu Pertama
   * Belajar Sintax TAG Html
   * Belajar Fungsi-fungsi TAG Html
   * Belajar Form Validasi HTML
-- Mendalami Belajar CSS Dasar
+- Mendalami Belajar JavaScript
+  * Belajar React
+  * Belajar Vue
