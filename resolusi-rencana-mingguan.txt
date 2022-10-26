@@ -1,4 +1,6 @@
 RENCANA KEGIATAN Minggu Pertama
 
 - Mendalami Belajar HTML Dasar
+  * Belajar Sintax TAG Html
+  * Belajar Fungsi-fungsi TAG Html
 - Mendalami Belajar CSS Dasar
