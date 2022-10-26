@@ -5,3 +5,6 @@ RENCANA KEGIATAN Minggu Pertama
   * Belajar Fungsi-fungsi TAG Html
   * Belajar Form Validasi HTML
 - Mendalami Belajar CSS Dasar
+  * CSS Layoting
+  * CSS 3
+  * CSS Unit
